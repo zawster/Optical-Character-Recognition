@@ -1,5 +1,6 @@
 # Optical Character Recognition
 Following are some optical characters which are taken from dataset:
+
 ![Optical Character](charactersImages/char1.png)
 ![Optical Character](charactersImages/char2.png)
 ![Optical Character](charactersImages/char3.png)
